@@ -250,11 +250,26 @@ Traceability was the bridge.
 
 ---
 
-## ❓ Questions & Confusions
+## ❓ Questions & Things to Revisit
+
+- What is the precise technical boundary between **IoT** and **IIoT** —
+  is it purely the industrial application context or is there an
+  architectural difference?
+- What does **CPS** look like at implementation level — is it the
+  hardware layer, the software layer, or the integration of both?
+- Will **traceability** come up explicitly in this course or is it
+  an applied extension of the concepts covered?
 
 ---
 
 ## ⭐ Most Important Point
+
+> Industry 4.0 is not just automation — it is about connecting
+> every part of the value chain in real time so that decisions
+> are driven by data, not assumptions.
+>
+> The gap between a connected system on paper and truly connected
+> operations in practice is exactly where IIoT creates value.
 
 ---
 
